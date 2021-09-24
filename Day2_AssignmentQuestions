@@ -1,0 +1,89 @@
+Selenium September Batch 
+12/09/21 Sunday
+Week 2 Day 2
+==========
+//mon//
+Assignment:1
+=====================================================================
+**https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/classroom/string/ReverseString.java
+
+**https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/optional/SumOfDigitsFromString.java
+
+**https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/RemoveDuplicates.java
+
+**https://github.com/TestLeafPages/SeleniumAssignments/blob/master/week1/day2/assignments/mandatory/ReverseEvenWords.java
+
+//mon//
+Assignment 2
+FaceBook: --> doubt
+================================
+// Step 1: Download and set the path 
+// Step 2: Launch the chromebrowser
+// Step 3: Load the URL https://en-gb.facebook.com/
+// Step 4: Maximise the window
+// Step 5: Add implicit wait
+// Step 6: Click on Create New Account button
+// Step 7: Enter the first name
+// Step 8: Enter the last name
+// Step 9: Enter the mobile number
+// Step 10: Enter the password
+// Step 11: Handle all the three drop downs
+// Step 12: Select the radio button "Female" 
+            ( A normal click will do for this step) 
+
+//Tue
+Assignment:3 --> dount while chlicking the checkbox(due to ElementClickInterceptedException)
+==================================================
+SalesForce:
+// Step 1: Download and set the path 
+// Step 2: Launch the chromebrowser
+// Step 3: Load the URL 
+           https://www.salesforce.com/in/form/signup/freetrial-sales/?d=70130000000Enyk
+// Step 4: Maximise the window
+// Step 5: Add implicit wait
+// Step 6: Fill in all the text boxes
+// Step 7: Handle all the dropdowns
+// Step 8: Click the check box
+// Step 9: Close the browser
+*Note: No need click Start my freeTrial
+
+//Tue,Wed
+Assignment:4
+=====================
+https://github.com/TestLeafPages/SeleniumAssignments/tree/master/week2/day2.assignments
+   Complete all 4 assignments in this link
+     
+//wed   
+Assignment:5
+===================
+1. Load url "https://acme-test.uipath.com/login"
+2. Enter email as "kumar.testleaf@gmail.com"
+3. Enter Password as "leaf@12"
+4. Click login button
+5. Get the title of the page and print
+6. Click on Log Out
+7. Close the browser (use -driver.close())
+======================
+optional:
+https://www.opencart.com/index.php?route=account/register
+	
+//thur   
+Assignment:6
+========================
+LeafGround Assignments
+*******Note : Kindly refer the Browser Element Verfication video attached to do the following assignments
+
+http://leafground.com/pages/Edit.html
+http://leafground.com/pages/Button.html
+http://leafground.com/pages/Link.html
+http://leafground.com/pages/Image.html
+http://leafground.com/pages/Dropdown.html
+http://leafground.com/pages/radio.html
+http://leafground.com/pages/checkbox.html
+
+
+
+
+
+do all the dropdown in creat lead.
+Inspect java in leafground textbox
